@@ -1,0 +1,1 @@
+<h1>Voce chegou no modulo cliente</h1><?php /**PATH C:\Users\si\Desktop\guilhermeferreira\aula\resources\views/clientes/index.blade.php ENDPATH**/ ?>
